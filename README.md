@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="AOMEI Backupper interface" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Malwarebytes_3.0_screenshot.png/1280px-Malwarebytes_3.0_screenshot.png" />
+<img width="2880" height="1620" alt="AOMEI Backupper interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Adobe_After_Effects_screenshot.png/1280px-Adobe_After_Effects_screenshot.png" />
 </div>
 
 ---
